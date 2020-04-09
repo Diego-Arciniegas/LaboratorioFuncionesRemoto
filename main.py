@@ -6,5 +6,6 @@ import operator
 operator.pow(valor1, valor2)     
 operator.__pow__(valor1, valor2) 
 
+
 print(operator.pow(valor1, valor2))
 
